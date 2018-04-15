@@ -1,0 +1,46 @@
+body{
+	background-color:#E5E5E5; 
+}
+.body{
+	background-color:#BDBDBD;
+	height:451px ;
+	width:732px ;
+	text-align:center;
+	margin-top: 100px;
+	margin-left:300px
+
+
+}
+.body2{
+	padding-top: 25px;
+}
+h2{
+	text-decoration:Ropa Sans;
+	font-size: 48px; 
+	color: #F7F1F1;
+}
+h1{
+	font-family: Artifika;
+	font-size: 64px; 
+	color: #2D9CDB;
+
+}
+p{
+	font-family: Artifika;
+	font-size: 24px;
+
+}
+#rot{
+	color:#F7F1F1;
+}
+button{
+	width: 139px;
+	height: 38px;
+	border: 1px solid #2D9CDB;
+	box-sizing: border-box;
+	border-radius: 10px;
+	font-family: Averia Sans Libre;
+	color:#F7F1F1; 
+	background-color:#BDBDBD; 
+	font-size: 24px;
+}
